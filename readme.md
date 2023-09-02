@@ -1,4 +1,4 @@
-# Emojee - Emoji Application
+# Emojee - Emoji Application [Link](https://abhilashtengli.github.io/Emoji-project/)
 
 Emojee is a simple web application for searching and exploring emojis. It allows users to find emojis by their description, aliases, or tags.
 
@@ -10,7 +10,7 @@ Emojee is a simple web application for searching and exploring emojis. It allows
 - [Usage](#usage)
 ## Demo
 
-You can see a live demo of the Emojee application [here](#). 
+You can see a live demo of the Emojee application [here](https://abhilashtengli.github.io/Emoji-project/). 
 
 ## Features
 
